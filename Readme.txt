@@ -1,3 +1,9 @@
+Concept:
+- Deep Learning
+- Convolutional Neuaral Network (CNN)
+- Pretained CNN
+
+
 Dataset: Intel Image Classification
 
 
